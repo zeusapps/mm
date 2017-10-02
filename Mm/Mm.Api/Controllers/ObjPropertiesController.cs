@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Mm.Api.DTOs;
 using Mm.Api.Mapping;
 using Mm.Api.Models;
 using Mm.Api.Repositories;
+using Mm.Core.DTOs;
 
 namespace Mm.Api.Controllers
 {

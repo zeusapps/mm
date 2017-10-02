@@ -1,7 +1,7 @@
 ﻿using System;
 using AutoMapper;
-using Mm.Api.DTOs;
 using Mm.Api.Models;
+using Mm.Core.DTOs;
 
 namespace Mm.Api.Mapping
 {

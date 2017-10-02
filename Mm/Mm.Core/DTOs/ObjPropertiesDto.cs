@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Mm.Api.DTOs
+namespace Mm.Core.DTOs
 {
     public partial class ObjPropertiesDto
     {

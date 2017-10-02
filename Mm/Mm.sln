@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mm.Api", "Mm.Api\Mm.Api.csproj", "{01315CF6-C067-4047-8862-A0D6FFE28FC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mm.Api", "Mm.Api\Mm.Api.csproj", "{01315CF6-C067-4047-8862-A0D6FFE28FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mm.Client", "Mm.Client\Mm.Client.csproj", "{1BF133AF-9D1D-4953-B1E7-75833AFA7D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mm.Core", "Mm.Core\Mm.Core.csproj", "{09AAB1C9-0AC8-4CC7-AA5D-1FE0092B3A60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{01315CF6-C067-4047-8862-A0D6FFE28FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01315CF6-C067-4047-8862-A0D6FFE28FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01315CF6-C067-4047-8862-A0D6FFE28FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF133AF-9D1D-4953-B1E7-75833AFA7D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF133AF-9D1D-4953-B1E7-75833AFA7D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF133AF-9D1D-4953-B1E7-75833AFA7D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF133AF-9D1D-4953-B1E7-75833AFA7D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09AAB1C9-0AC8-4CC7-AA5D-1FE0092B3A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AAB1C9-0AC8-4CC7-AA5D-1FE0092B3A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AAB1C9-0AC8-4CC7-AA5D-1FE0092B3A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AAB1C9-0AC8-4CC7-AA5D-1FE0092B3A60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
